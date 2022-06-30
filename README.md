@@ -1,5 +1,5 @@
 # AutoForwarder
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/firegodliu/AutoForwarder-TelegramBot)
 A simple Telegram Python bot running on Python3 to automatically forward messages from one chat to another.
 
 Currently, being used in our updates channel to automatically forward messages to all our groups. Originally,Can be found on 
